@@ -1,6 +1,8 @@
 <style>
 <body> {
- 
+}
+* { 
+  border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 h1 {
@@ -11,6 +13,14 @@ h1 {
 	text-align: center;
 	
 }
+img {
+	width: 450px;
+	height: 450px;
+	border-radius: 250px;
+    margin-left: 27em;
+
+}
+
 h2 {
 	color: #A8CD1B;
 	font-family: Blackadder ITC, Arial, sans-serif;
@@ -36,12 +46,6 @@ p {
 	font-family: Arial, sans-serif, serif;
 	font-size: 16px;
 	line-height: 1.8em;
-	
-	#happy {
-		color:;
-		font-size: 62px;
-		font-family: Blackadder ITC, Arial, sans-serif;
-		text-align: center;
-	}
 }
+
 </style>
